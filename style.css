@@ -1,3 +1,20 @@
-h1 {
-    color : dodgerblue;
+#main {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+.item{
+    text-align: center;
+}
+#c1 {
+   
+}
+#c2 {
+    
+}
+#c3 {
+
+}
+body{
+    background-color: silver;
 }
